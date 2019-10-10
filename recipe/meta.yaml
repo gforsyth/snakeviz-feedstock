@@ -35,6 +35,7 @@ test:
 about:
   home: https://jiffyclub.github.io/snakeviz/
   license: BSD 3-Clause
+  license_file: LICENSE.txt
   summary: An in-browser Python profile viewer
   description: |
     SnakeViz is a viewer for Python profiling data that runs as a web application in your browser.
