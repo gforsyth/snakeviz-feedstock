@@ -3,7 +3,7 @@ About snakeviz
 
 Home: https://jiffyclub.github.io/snakeviz/
 
-Package license: BSD 3-Clause
+Package license: BSD-3-Clause
 
 Feedstock license: BSD-3-Clause
 
@@ -118,4 +118,5 @@ Feedstock Maintainers
 =====================
 
 * [@gforsyth](https://github.com/gforsyth/)
+* [@stanmart](https://github.com/stanmart/)
 
