@@ -1,13 +1,13 @@
 {% set name = "snakeviz" %}
-{% set version = "2.0.1" %}
+{% set version = "2.1.0" %}
 
 package:
   name: {{ name|lower }}
   version: {{ version }}
 
 source:
-  url: https://github.com/jiffyclub/{{ name }}/archive/v{{ version }}.tar.gz
-  sha256: c7432fbcad585f451ace93d02cc89e6e2d22f0b0aa75c5f9109cd3c231e81336
+  url: https://pypi.io/packages/source/s/{{ name }}/{{ name }}-{{ version }}.tar.gz
+  sha256: 92ad876fb6a201a7e23a6b85ea96d9643a51e285667c253a8653643804f7cb68
 
 build:
   noarch: python
