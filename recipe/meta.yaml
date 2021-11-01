@@ -19,11 +19,11 @@ build:
 requirements:
   build:
     - pip
-    - python
+    - python >=3.6
     - setuptools
     - tornado >=2.0
   run:
-    - python
+    - python >=3.6
     - tornado >=2.0
 
 test:
